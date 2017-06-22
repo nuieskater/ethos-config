@@ -13,7 +13,7 @@
 # SAMPLE FORMAT: 
 # [type] [value]
 # ------------------------------------------------------
-# globalminer ethminer
+globalminer claymore
 maxgputemp 85
 stratumproxy enabled
 proxywallet 0x0aF4D8bae3760bd88d403475ED90b8c8BDF933AB
