@@ -24,10 +24,10 @@ flags --cl-global-work 8192 --farm-recheck 200
 # globalmem 1250
 globalfan 85
 # globalpowertune 20
-# autoreboot false
+autoreboot true
 custompanel jw1986reese8
 # lockscreen enabled
-# globaldesktop disabled
+globaldesktop disabled
 # ------------------------------------------------------
 #
 # EXPLANATION OF SETTINGS THAT APPLY TO ALL RIGS
