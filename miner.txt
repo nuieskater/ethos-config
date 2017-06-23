@@ -25,7 +25,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 # globalpowertune 20
 # autoreboot false
-# custompanel publicsecret
+custompanel jw1986reese8
 # lockscreen enabled
 # globaldesktop disabled
 # ------------------------------------------------------
