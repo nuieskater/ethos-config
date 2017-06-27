@@ -2,7 +2,7 @@
 globalminer claymore
 maxgputemp 85
 stratumproxy enabled
-proxywallet 2e7886343244bcc0eec6a31ea726e29337678d74
+proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
 proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
 flags --cl-global-work 8192 --farm-recheck 200
@@ -11,5 +11,5 @@ autoreboot 5
 custompanel jw1986reese8
 
 # Worker Settings
-reb d2c33c 3
+reb d2c33c 4
 loc d2c33c bsmt1
