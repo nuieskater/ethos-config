@@ -5,7 +5,7 @@ claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 claymore=flags --cl-global-work 8192 --farm-recheck 200
 
-claymore-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
+claymore-zcash=proxywallet t1bJinQUg8YBETWJrjS539FN5RyDkZivjRz
 claymore-zcash=proxypool2 us1-zcash.flypool.org
 claymore-zcash=proxypool1 eu1-zcash.flypool.org
 claymore-zcash=flags --cl-global-work 8192 --farm-recheck 200
@@ -18,5 +18,5 @@ autoreboot 5
 custompanel jw1986reese8
 
 # Worker Settings
-reb d2c33c 7
+reb d2c33c 8
 loc d2c33c bsmt1
