@@ -9,8 +9,8 @@ claymore=flags --cl-global-work 8192 --farm-recheck 200
 
 # Claymore Zcash
 claymore-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
-claymore-zcash=proxypool2 us1-zcash.flypool.org
-claymore-zcash=proxypool1 eu1-zcash.flypool.org
+claymore-zcash=proxypool1 us1-zcash.flypool.org
+claymore-zcash=proxypool2 eu1-zcash.flypool.org
 claymore-zcash=flags --cl-global-work 8192 --farm-recheck 200
 
 # Rig Settings
