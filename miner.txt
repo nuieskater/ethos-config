@@ -1,5 +1,5 @@
 # Miner Settings
-globalminer claymore
+globalminer ewbf-zcash
 
 # Claymore
 claymore=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
@@ -8,10 +8,9 @@ claymore=proxypool2 us2.ethermine.org:4444
 claymore=flags --cl-global-work 8192 --farm-recheck 200
 
 # Claymore Zcash
-claymore-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
-claymore-zcash=proxypool1 us1-zcash.flypool.org:3333
-claymore-zcash=proxypool2 eu1-zcash.flypool.org:3333
-claymore-zcash=flags --cl-global-work 8192 --farm-recheck 200
+ewbf-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
+ewbf-zcash=proxypool1 us1-zcash.flypool.org:3333
+ewbf-zcash=proxypool2 eu1-zcash.flypool.org:3333
 
 # Rig Settings
 maxgputemp 85
@@ -21,5 +20,5 @@ autoreboot 5
 custompanel jw1986reese8
 
 # Worker Settings
-reb d2c33c 11
+reb d2c33c 12
 loc d2c33c bsmt1
