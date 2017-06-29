@@ -9,8 +9,8 @@ claymore=flags --cl-global-work 8192 --farm-recheck 200
 
 # Claymore Zcash
 claymore-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
-claymore-zcash=proxypool1 us1-zcash.flypool.org
-claymore-zcash=proxypool2 eu1-zcash.flypool.org
+claymore-zcash=proxypool1 us1-zcash.flypool.org:3333
+claymore-zcash=proxypool2 eu1-zcash.flypool.org:3333
 claymore-zcash=flags --cl-global-work 8192 --farm-recheck 200
 
 # Rig Settings
@@ -21,5 +21,5 @@ autoreboot 5
 custompanel jw1986reese8
 
 # Worker Settings
-reb d2c33c 10
+reb d2c33c 11
 loc d2c33c bsmt1
