@@ -20,5 +20,5 @@ autoreboot 5
 custompanel jw1986reese8
 
 # Worker Settings
-reb d2c33c 13
+reb d2c33c 14
 loc d2c33c bsmt1
