@@ -1,4 +1,7 @@
-# Miner Settings
+###################
+# Mining Settings #
+###################
+stratumproxy enabled
 globalminer ethminer
 
 # Ethminer
@@ -16,18 +19,48 @@ ewbf-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
 ewbf-zcash=proxypool1 us1-zcash.flypool.org:3333
 ewbf-zcash=proxypool2 eu1-zcash.flypool.org:3333
 
-# Rig Settings
+###################
+# Global Settings #
+###################
 maxgputemp 85
-stratumproxy enabled
 globalfan 85
 autoreboot 5
 custompanel jw1986reese8
 
-# Overclock Settings
-globalcore 2100
-globalmem 4300
-globalpowertune 150
-
-# Worker Settings
+############################
+# Worker Specific Settings #
+############################
 reb d2c33c 18
 loc d2c33c bsmt1
+
+######################
+# Overclock Settings #
+######################
+# globalcore 2100
+# globalmem 4300
+# globalpowertune 150
+
+#--- ? ---
+pwr 86.06.0E.00.0A 156
+cor 86.06.0E.00.0A 2100
+mem 86.06.0E.00.0A 4300
+
+#--- 4x Asus Dual OC --
+pwr 86.06.27.00.9B 120
+cor 86.06.27.00.9B 2100
+mem 86.06.27.00.9B 4300
+
+#--- ? ---
+pwr 86.06.39.00.60 150
+cor 86.06.39.00.60 2100
+mem 86.06.39.00.60 4300
+
+#--- ? ---
+pwr 86.06.0E.00.A4 140
+cor 86.06.0E.00.A4 2100
+mem 86.06.0E.00.A4 4300
+
+#--- ? ---
+pwr 86.06.0E.00.08 120
+cor 86.06.0E.00.08 2100
+mem 86.06.0E.00.08 4300
