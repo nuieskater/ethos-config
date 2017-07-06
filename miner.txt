@@ -26,7 +26,7 @@ custompanel jw1986reese8
 # Overclock Settings
 globalcore 2100
 globalmem 4300
-globalpowertune 5
+globalpowertune 150
 
 # Worker Settings
 reb d2c33c 16
