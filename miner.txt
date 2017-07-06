@@ -1,5 +1,5 @@
 # Miner Settings
-globalminer claymore
+globalminer ethminer
 
 # Ethminer
 ethminer=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
@@ -29,5 +29,5 @@ globalmem 4300
 globalpowertune 150
 
 # Worker Settings
-reb d2c33c 17
+reb d2c33c 18
 loc d2c33c bsmt1
