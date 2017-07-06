@@ -1,11 +1,15 @@
 # Miner Settings
-globalminer claymore
+globalminer ethminer
+
+# Ethminer
+ethminer=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
+ethminer=proxypool1 us1.ethermine.org:4444
+ethminer=proxypool2 us2.ethermine.org:4444
 
 # Claymore
 claymore=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
-claymore=flags --cl-global-work 8192 --farm-recheck 200
 
 # Claymore Zcash
 ewbf-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
@@ -20,5 +24,5 @@ autoreboot 5
 custompanel jw1986reese8
 
 # Worker Settings
-reb d2c33c 15
+reb d2c33c 16
 loc d2c33c bsmt1
