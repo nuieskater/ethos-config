@@ -23,6 +23,11 @@ globalfan 85
 autoreboot 5
 custompanel jw1986reese8
 
+# Overclock Settings
+globalcore 2100
+globalmem 4300
+globalpowertune 5
+
 # Worker Settings
-reb d2c33c 16
+reb d2c33c 17
 loc d2c33c bsmt1
