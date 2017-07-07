@@ -30,7 +30,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb d2c33c 27
+reb d2c33c 28
 loc d2c33c bsmt1
 
 ######################
@@ -39,25 +39,29 @@ loc d2c33c bsmt1
 globalcore 2100
 
 #--- Asus Strix OC GTX 1060 6 GB ---
+# primary psu, monitor connected
 pwr 86.06.0E.00.0A 156
-mem 86.06.0E.00.0A 5000
+mem 86.06.0E.00.0A 4800
 
 #--- Asus Strix GTX 1060 6 GB ---
+# primary psu
 pwr 86.06.0E.00.08 120
-mem 86.06.0E.00.08 5000
+mem 86.06.0E.00.08 4800
 
 #--- 5x Asus Dual OC GTX 1060 6GB ---
-# 1x Possibly bad riser
+# all on the secondary psu
 pwr 86.06.27.00.9B 120
-mem 86.06.27.00.9B 5000
+mem 86.06.27.00.9B 4800
 
 #--- MSI GTX 1060 6 GB ---
+# primary psu
+# connected via m.2 adapter
 pwr 86.06.0E.00.A4 140
-mem 86.06.0E.00.A4 5000
+mem 86.06.0E.00.A4 4800
 
 #--- EVGA GTX 1060 6 GB ---
-# WARNING: on m.2
-# Running Stock, possibly a bad m.2
-# pwr 86.06.39.00.60 150
-# mem 86.06.39.00.60 4800
+# primary psu
+# connected via m.2 adapter
+pwr 86.06.39.00.60 150
+mem 86.06.39.00.60 4800
 
