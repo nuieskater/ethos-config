@@ -40,7 +40,7 @@ loc d2c33c bsmt1
 # globalmem 4700
 # globalpowertune 150
 
-#--- Asus Strix GTX 1060 6G B --
+#--- Asus Strix GTX 1060 6 GB --
 pwr 86.06.0E.00.0A 156
 cor 86.06.0E.00.0A 2100
 mem 86.06.0E.00.0A 5200
