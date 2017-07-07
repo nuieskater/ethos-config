@@ -37,22 +37,22 @@ loc d2c33c bsmt1
 # Overclock Settings #
 ######################
 globalcore 2100
-# globalmem 4700
 # globalpowertune 150
+# globalmem 4700
 
 #--- Asus Strix OC GTX 1060 6 GB ---
-pwr 86.06.0E.00.0A 156
 # cor 86.06.0E.00.0A 2100
+pwr 86.06.0E.00.0A 156
 mem 86.06.0E.00.0A 5000
 
 #--- Asus Strix GTX 1060 6 GB ---
-pwr 86.06.0E.00.08 120
 # cor 86.06.0E.00.08 2100
-mem 86.06.0E.00.08 4000
+pwr 86.06.0E.00.08 120
+mem 86.06.0E.00.08 5000
 
 #--- 5x Asus Dual OC GTX 1060 6GB ---
-pwr 86.06.27.00.9B 120
 # cor 86.06.27.00.9B 2100
+pwr 86.06.27.00.9B 120
 mem 86.06.27.00.9B 5000
 
 #--- EVGA GTX 1060 6 GB ---
