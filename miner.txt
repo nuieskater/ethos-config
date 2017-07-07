@@ -40,7 +40,7 @@ globalcore 2100
 
 #--- Asus Strix OC GTX 1060 6 GB ---
 pwr 86.06.0E.00.0A 156
-mem 86.06.0E.00.0A 5100
+mem 86.06.0E.00.0A 5000
 
 #--- Asus Strix GTX 1060 6 GB ---
 pwr 86.06.0E.00.08 120
