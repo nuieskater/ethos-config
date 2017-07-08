@@ -46,7 +46,7 @@ mem 86.06.0E.00.0A 4700
 #--- Asus Strix GTX 1060 6 GB ---
 # primary psu
 pwr 86.06.0E.00.08 120
-mem 86.06.0E.00.08 4700
+mem 86.06.0E.00.08 4600
 
 #--- 5x Asus Dual OC GTX 1060 6GB ---
 # all on the secondary psu
