@@ -46,7 +46,7 @@ mem 86.06.0E.00.0A 4700
 #--- Asus Strix GTX 1060 6 GB ---
 # primary psu
 pwr 86.06.0E.00.08 120
-mem 86.06.0E.00.08 4700
+mem 86.06.0E.00.08 4600
 
 #--- 5x Asus Dual OC GTX 1060 6GB ---
 # all on the secondary psu
@@ -57,11 +57,11 @@ mem 86.06.27.00.9B 4600
 # primary psu
 # connected via m.2 adapter
 pwr 86.06.0E.00.A4 140
-mem 86.06.0E.00.A4 4700
+mem 86.06.0E.00.A4 4600
 
 #--- EVGA GTX 1060 6 GB ---
 # primary psu
 # connected via m.2 adapter
 pwr 86.06.39.00.60 150
-mem 86.06.39.00.60 4700
+mem 86.06.39.00.60 4600
 
