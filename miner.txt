@@ -43,11 +43,6 @@ globalcore 2100
 pwr 86.06.0E.00.0A 156
 mem 86.06.0E.00.0A 4700
 
-#--- Asus Strix GTX 1060 6 GB ---
-# primary psu
-pwr 86.06.0E.00.08 120
-mem 86.06.0E.00.08 4600
-
 #--- 5x Asus Dual OC GTX 1060 6GB ---
 # all on the secondary psu
 pwr 86.06.27.00.9B 120
