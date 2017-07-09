@@ -30,7 +30,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb d2c33c 45
+reb d2c33c 46
 loc d2c33c bsmt1
 
 ######################
@@ -53,13 +53,13 @@ mem 86.06.27.00.9B 4400
 # primary psu
 # connected via m.2 adapter
 cor 86.06.0E.00.A4 1400
-pwr 86.06.0E.00.A4 95
-mem 86.06.0E.00.A4 4400
+pwr 86.06.0E.00.A4 100
+mem 86.06.0E.00.A4 4200
 
 #--- EVGA GTX 1060 6 GB ---
 # primary psu
 # connected via m.2 adapter
 cor 86.06.39.00.60 1400
 pwr 86.06.39.00.60 100
-mem 86.06.39.00.60 4400
+mem 86.06.39.00.60 4200
 
