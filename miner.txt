@@ -2,7 +2,7 @@
 # Mining Settings #
 ###################
 stratumproxy enabled
-globalminer claymore
+globalminer ethminer
 
 # Ethminer
 ethminer=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
