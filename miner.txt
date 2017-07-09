@@ -30,7 +30,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb d2c33c 46
+reb d2c33c 47
 loc d2c33c bsmt1
 
 ######################
@@ -41,7 +41,7 @@ loc d2c33c bsmt1
 # primary psu, monitor connected to one
 pwr 86.06.0E.00.0A 110
 cor 86.06.0E.00.0A 1400
-mem 86.06.0E.00.0A 4700
+mem 86.06.0E.00.0A 4800
 
 #--- 5x Asus Dual OC GTX 1060 6GB ---
 # all on the secondary psu
