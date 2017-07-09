@@ -30,33 +30,36 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb d2c33c 35
+reb d2c33c 36
 loc d2c33c bsmt1
 
 ######################
 # Overclock Settings #
 ######################
-globalcore 2100
 
 #--- Asus Strix OC GTX 1060 6 GB ---
 # primary psu, monitor connected
+cor 86.06.0E.00.0A 2150
 pwr 86.06.0E.00.0A 156
 mem 86.06.0E.00.0A 4900
 
 #--- 5x Asus Dual OC GTX 1060 6GB ---
 # all on the secondary psu
+cor 86.06.27.00.9B 2100
 pwr 86.06.27.00.9B 120
 mem 86.06.27.00.9B 4700
 
 #--- MSI GTX 1060 6 GB ---
 # primary psu
 # connected via m.2 adapter
+# cor 86.06.0E.00.A4 2100
 # pwr 86.06.0E.00.A4 140
 # mem 86.06.0E.00.A4 4600
 
 #--- EVGA GTX 1060 6 GB ---
 # primary psu
 # connected via m.2 adapter
+# cor 86.06.39.00.60 2100
 # pwr 86.06.39.00.60 150
 # mem 86.06.39.00.60 4600
 
