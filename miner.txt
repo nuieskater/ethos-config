@@ -52,7 +52,7 @@ mem 86.06.0E.00.0A 4850
 # all on the secondary psu
 cor 86.06.27.00.9B 1400
 pwr 86.06.27.00.9B 95
-mem 86.06.27.00.9B 4500
+mem 86.06.27.00.9B 4600
 
 #--- MSI GTX 1060 6 GB ---
 # primary psu
