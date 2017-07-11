@@ -30,7 +30,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb d2c33c 56
+reb d2c33c 60
 loc d2c33c bsmt1
 
 ######################
