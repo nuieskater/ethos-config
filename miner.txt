@@ -37,11 +37,6 @@ loc d2c33c bsmt1
 # Overclock Settings #
 ######################
 
-# 86.06.0E.00.0A 86.06.0E.00.0A 86.06.0E.00.A4 86.06.0E.00.0A 86.06.27.00.9B 86.06.27.00.9B 86.06.27.00.9B 86.06.27.00.9B 86.06.39.00.60
-# pwr d2c33c 110 110 110 95 95 95 95
-# cor d2c33c 1400 1400 1400 1400 1400 1400 1400
-# mem d2c33c 4850 4850 4850 4600 4600 4600 4600
-
 #--- 3x Asus Strix OC GTX 1060 6 GB ---
 # primary psu, monitor connected to one
 pwr 86.06.0E.00.0A 110
@@ -52,18 +47,4 @@ mem 86.06.0E.00.0A 5000
 # all on the secondary psu
 cor 86.06.27.00.9B 1400
 pwr 86.06.27.00.9B 95
-mem 86.06.27.00.9B 4600
-
-#--- MSI GTX 1060 6 GB ---
-# primary psu
-# connected via m.2 adapter
-# cor 86.06.0E.00.A4 1400
-# pwr 86.06.0E.00.A4 100
-# mem 86.06.0E.00.A4 4200
-
-#--- EVGA GTX 1060 6 GB ---
-# primary psu
-# connected via m.2 adapter
-# cor 86.06.39.00.60 1400
-# pwr 86.06.39.00.60 100
-# mem 86.06.39.00.60 4200
+mem 86.06.27.00.9B 4550
