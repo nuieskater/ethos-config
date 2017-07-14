@@ -22,8 +22,8 @@ ewbf-zcash=proxypool2 eu1-zcash.flypool.org:3333
 ###################
 # Global Settings #
 ###################
-maxgputemp 80
-globalfan 90
+maxgputemp 85
+globalfan 95
 autoreboot 5
 custompanel jw1986reese8
 
