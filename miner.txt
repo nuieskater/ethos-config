@@ -14,7 +14,7 @@ claymore=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 
-# Claymore Zcash
+# Zcash
 ewbf-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
 ewbf-zcash=proxypool1 us1-zcash.flypool.org:3333
 ewbf-zcash=proxypool2 eu1-zcash.flypool.org:3333
