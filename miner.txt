@@ -38,7 +38,7 @@ loc d2c33c bsmt1
 ######################
 globalcore 1400 
 pwr d2c33c 110 110 110 110 110 95 95
-mem d2c33c 4800 4800 4700 4800 4800 4350 4350
+mem d2c33c 4850 4850 4700 4850 4850 4300 4300
 
 #--- 3x Asus Strix OC GTX 1060 6 GB ---
 # primary psu, monitor connected to one
