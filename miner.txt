@@ -30,7 +30,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb d2c33c 68
+reb d2c33c 69
 loc d2c33c bsmt1
 
 ######################
@@ -38,7 +38,7 @@ loc d2c33c bsmt1
 ######################
 globalcore 1400 
 pwr d2c33c 110 110 110 110 110 95 95
-mem d2c33c 4850 4850 4600 4850 4850 4300 4300
+mem d2c33c 4850 4850 4850 4850 4850 4300 4300
 
 #--- 3x Asus Strix OC GTX 1060 6 GB ---
 # primary psu, monitor connected to one
