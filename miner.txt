@@ -30,7 +30,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb d2c33c 70
+reb d2c33c 72
 loc d2c33c bsmt1
 
 ######################
@@ -50,4 +50,4 @@ mem 86.06.0E.00.0A 4850
 # all on the secondary psu
 cor 86.06.27.00.9B 1400
 pwr 86.06.27.00.9B 95
-mem 86.06.27.00.9B 4350
+mem 86.06.27.00.9B 4300
