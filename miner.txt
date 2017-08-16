@@ -30,7 +30,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 2
+reb 4ee36b 100
 loc 4ee36b bsmt1
 
 ######################
