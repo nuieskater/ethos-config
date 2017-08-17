@@ -44,10 +44,10 @@ loc 4ee36b bsmt1
 # primary psu, monitor connected to one
 pwr 86.06.0E.00.0A 110
 cor 86.06.0E.00.0A 1400
-mem 86.06.0E.00.0A 5000
+mem 86.06.0E.00.0A 4950
 
 #--- 4x Asus Dual OC GTX 1060 6GB ---
 # all on the secondary psu
 cor 86.06.27.00.9B 1400
 pwr 86.06.27.00.9B 95
-mem 86.06.27.00.9B 4500
+mem 86.06.27.00.9B 4700
