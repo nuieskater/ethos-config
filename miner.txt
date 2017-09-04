@@ -2,7 +2,7 @@
 # Mining Settings #
 ###################
 stratumproxy enabled
-globalminer ethminer
+globalminer claymore
 
 # Ethminer
 ethminer=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
@@ -13,6 +13,20 @@ ethminer=proxypool2 us2.ethermine.org:4444
 claymore=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
+
+# Dual-mining
+
+# LBRY - need to know how to set pool pass
+# dualminer enabled
+# dualminer-coin lbry
+# dualminer-pool lbry.suprnova.cc:6256
+# dualminer-wallet bVxnNrhDEfyUkCqAXYUigSuctw8imMgjRL
+
+# Siacoin
+dualminer enabled
+dualminer-coin sia
+dualminer-pool sia-us-east1.nanopool.org:7777
+dualminer-wallet d312c94f5f286557e509688df577a0276bf7d4e9f3f84abbad0de48b111f04aa9147c6263ecb
 
 # Zcash
 ewbf-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
@@ -30,7 +44,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 101
+reb 4ee36b 102
 loc 4ee36b bsmt1
 
 ######################
