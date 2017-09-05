@@ -44,7 +44,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 102
+reb 4ee36b 103
 loc 4ee36b bsmt1
 
 ######################
@@ -57,11 +57,11 @@ loc 4ee36b bsmt1
 #--- 5x Asus Strix OC GTX 1060 6 GB ---
 # primary psu, monitor connected to one
 # pwr 86.06.0E.00.0A 110
-# cor 86.06.0E.00.0A 1400
-# mem 86.06.0E.00.0A 4800
+cor 86.06.0E.00.0A 2150
+mem 86.06.0E.00.0A 4800
 
 #--- 4x Asus Dual OC GTX 1060 6GB ---
 # all on the secondary psu
-# cor 86.06.27.00.9B 1400
 # pwr 86.06.27.00.9B 95
-# mem 86.06.27.00.9B 4500
+cor 86.06.27.00.9B 2050
+mem 86.06.27.00.9B 4600
