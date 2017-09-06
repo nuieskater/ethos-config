@@ -1,69 +1,62 @@
 ###################
+# Global Settings #
+###################
+custompanel jw1986reese8
+maxgputemp 85
+autoreboot 5
+# globalfan 95
+
+############################
+# Worker Specific Settings #
+############################
+reb 4ee36b 112
+loc 4ee36b bsmt1
+
+###################
 # Mining Settings #
 ###################
 stratumproxy enabled
 globalminer claymore
 
-# Ethminer
+### Ethminer ###
 ethminer=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
 ethminer=proxypool1 us1.ethermine.org:4444
 ethminer=proxypool2 us2.ethermine.org:4444
 
-# Claymore
+### Zcash ###
+# ewbf-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
+# ewbf-zcash=proxypool1 us1-zcash.flypool.org:3333
+# ewbf-zcash=proxypool2 eu1-zcash.flypool.org:3333
+
+### Claymore ###
 claymore=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 
-# Dual-mining
-
-# LBRY - need to know how to set pool pass
+### Dual-mining (Claymore) ###
 dualminer enabled
+
+### LBRY ###
 dualminer-coin lbc
 dualminer-pool lbry.suprnova.cc:6256
 dualminer-wallet jwaldrip
 flags -dpsw nra5509
-# flags -dpsw nra5509 -dcoin lbc -dpool lbry.suprnova.cc:6256 -dwal jwaldrip.bsmt
 
-# Siacoin
-# dualminer enabled
+### Siacoin ###
 # dualminer-coin sia
 # dualminer-pool sia-us-east1.nanopool.org:7777
 # dualminer-wallet d312c94f5f286557e509688df577a0276bf7d4e9f3f84abbad0de48b111f04aa9147c6263ecb
 
-# Zcash
-ewbf-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
-ewbf-zcash=proxypool1 us1-zcash.flypool.org:3333
-ewbf-zcash=proxypool2 eu1-zcash.flypool.org:3333
-
-###################
-# Global Settings #
-###################
-maxgputemp 85
-globalfan 95
-autoreboot 5
-custompanel jw1986reese8
-
-############################
-# Worker Specific Settings #
-############################
-reb 4ee36b 111
-loc 4ee36b bsmt1
-
 ######################
 # Overclock Settings #
 ######################
-# globalcore 1400 
-# pwr 4ee36b 110 110 110 110 110 95 95
-# mem 4ee36b 4900 4900 4900 4900 4900 4300 4300
 
-#--- 5x Asus Strix OC GTX 1060 6 GB ---
-# primary psu, monitor connected to one
-# pwr 86.06.0E.00.0A 110
+### 5x Asus Strix OC GTX 1060 6 GB ###
+pwr 86.06.0E.00.0A 156
 cor 86.06.0E.00.0A 2150
 mem 86.06.0E.00.0A 4800
 
-#--- 4x Asus Dual OC GTX 1060 6GB ---
-# all on the secondary psu
-# pwr 86.06.27.00.9B 95
+### 4x Asus Dual OC GTX 1060 6GB ###
+pwr 86.06.27.00.9B 120
 cor 86.06.27.00.9B 2050
 mem 86.06.27.00.9B 4600
