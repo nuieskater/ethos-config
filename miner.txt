@@ -20,7 +20,7 @@ claymore=proxypool2 us2.ethermine.org:4444
 dualminer enabled
 dualminer-coin lbc
 dualminer-pool lbry.suprnova.cc:6256
-dualminer-wallet jwaldrip.bsmt
+dualminer-wallet jwaldrip
 flags -dpsw nra5509
 # flags -dpsw nra5509 -dcoin lbc -dpool lbry.suprnova.cc:6256 -dwal jwaldrip.bsmt
 
