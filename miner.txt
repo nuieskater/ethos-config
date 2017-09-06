@@ -21,7 +21,7 @@ dualminer enabled
 dualminer-coin libc
 dualminer-pool lbry.suprnova.cc:6256
 dualminer-wallet jwaldrip.bsmt
-flags -dpsw nra5509
+flags -dpsw nra5509 -dcoin libc -dpool lbry.suprnova.cc:6256 -dwal jwaldrip.bsmt
 # flags -dpsw nra5509 -dcoin libc -dpool lbry.suprnova.cc:6256 -dwal jwaldrip.bsmt
 
 # Siacoin
