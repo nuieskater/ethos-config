@@ -19,9 +19,9 @@ claymore=proxypool2 us2.ethermine.org:4444
 # LBRY - need to know how to set pool pass
 dualminer enabled
 dualminer-coin libc
-dualminer-pool stratum+tcp://lbry.suprnova.cc:6256
+dualminer-pool lbry.suprnova.cc:6256
 dualminer-wallet jwaldrip.bsmt
-claymore=flags -DPSW nra5509
+claymore=flags -dpsw nra5509 -dcoin libc -dpool lbry.suprnova.cc:6256 -dwal jwaldrip.bsmt
 
 # Siacoin
 # dualminer enabled
@@ -45,7 +45,7 @@ custompanel jw1986reese8
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 107
+reb 4ee36b 108
 loc 4ee36b bsmt1
 
 ######################
