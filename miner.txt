@@ -9,7 +9,7 @@ globalfan 75
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 114
+reb 4ee36b 115
 loc 4ee36b bsmt1
 
 ###################
