@@ -9,7 +9,7 @@ autoreboot 5
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 112
+reb 4ee36b 113
 loc 4ee36b bsmt1
 
 ###################
@@ -34,13 +34,13 @@ claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 
 ### Dual-mining (Claymore) ###
-dualminer enabled
+# dualminer enabled
 
 ### LBRY ###
-dualminer-coin lbc
-dualminer-pool lbry.suprnova.cc:6256
-dualminer-wallet jwaldrip
-flags -dpsw nra5509
+# dualminer-coin lbc
+# dualminer-pool lbry.suprnova.cc:6256
+# dualminer-wallet jwaldrip
+# flags -dpsw nra5509
 
 ### Siacoin ###
 # dualminer-coin sia
