@@ -4,12 +4,12 @@
 custompanel jw1986reese8
 maxgputemp 85
 autoreboot 5
-globalfan 75
+globalfan 80
 
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 115
+reb 4ee36b 116
 loc 4ee36b bsmt1
 
 ###################
