@@ -9,7 +9,7 @@ globalfan 80
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 118
+reb 4ee36b 119
 loc 4ee36b bsmt1
 
 ###################
@@ -54,7 +54,7 @@ claymore=proxypool2 us2.ethermine.org:4444
 ### 5x Asus Strix OC GTX 1060 6 GB ###
 pwr 86.06.0E.00.0A 156
 # cor 86.06.0E.00.0A 2150
-mem 86.06.0E.00.0A 4800
+mem 86.06.0E.00.0A 4700
 
 ### 4x Asus Dual OC GTX 1060 6GB ###
 pwr 86.06.27.00.9B 120
