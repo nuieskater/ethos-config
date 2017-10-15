@@ -54,9 +54,9 @@ claymore=proxypool2 us2.ethermine.org:4444
 ### 5x Asus Strix OC GTX 1060 6 GB ###
 pwr 86.06.0E.00.0A 156
 # cor 86.06.0E.00.0A 2150
-mem 86.06.0E.00.0A 4200
+mem 86.06.0E.00.0A 4300
 
 ### 4x Asus Dual OC GTX 1060 6GB ###
 pwr 86.06.27.00.9B 120
 # cor 86.06.27.00.9B 2050
-mem 86.06.27.00.9B 4000
+mem 86.06.27.00.9B 4100
