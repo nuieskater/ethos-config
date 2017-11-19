@@ -9,14 +9,17 @@ globalfan 80
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 126
+reb 4ee36b 127
 loc 4ee36b bsmt1
 
 ###################
 # Mining Settings #
 ###################
 stratumproxy enabled
-globalminer ethminer
+globalminer ccminer
+proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
+ethminer proxypool1 us1.ethermine.org:4444
+ethminer proxypool2 us2.ethermine.org:4444
 
 ### Ethminer ###
 ethminer=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
