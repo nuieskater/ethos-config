@@ -23,40 +23,14 @@ ethminer=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
 ethminer=proxypool1 us1.ethermine.org:4444
 ethminer=proxypool2 us2.ethermine.org:4444
 
-### Zcash ###
-# ewbf-zcash=proxywallet t1aDAqJm25SXmgJLt49RVBWjXoD9Rw8pso4
-# ewbf-zcash=proxypool1 us1-zcash.flypool.org:3333
-# ewbf-zcash=proxypool2 eu1-zcash.flypool.org:3333
-
-### Claymore ###
-claymore=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
-claymore=proxypool1 us1.ethermine.org:4444
-claymore=proxypool2 us2.ethermine.org:4444
-
-### Dual-mining (Claymore) ###
-# dualminer enabled
-
-### LBRY ###
-# dualminer-coin lbc
-# dualminer-pool lbry.suprnova.cc:6256
-# dualminer-wallet jwaldrip
-# flags -dpsw nra5509
-
-### Siacoin ###
-# dualminer-coin sia
-# dualminer-pool sia-us-east1.nanopool.org:7777
-# dualminer-wallet d312c94f5f286557e509688df577a0276bf7d4e9f3f84abbad0de48b111f04aa9147c6263ecb
-
 ######################
 # Overclock Settings #
 ######################
 
 ### 5x Asus Strix OC GTX 1060 6 GB ###
 pwr 86.06.0E.00.0A 156
-# cor 86.06.0E.00.0A 2150
 mem 86.06.0E.00.0A 4200
 
 ### 4x Asus Dual OC GTX 1060 6GB ###
 pwr 86.06.27.00.9B 120
-# cor 86.06.27.00.9B 2050
 mem 86.06.27.00.9B 4000
