@@ -9,7 +9,7 @@ globalfan 80
 ############################
 # Worker Specific Settings #
 ############################
-reb 4ee36b 127
+reb 4ee36b 128
 loc 4ee36b bsmt1
 
 ###################
@@ -29,12 +29,8 @@ ethminer=proxypool2 us2.ethermine.org:4444
 
 ### 5x Asus Strix OC GTX 1060 6 GB ###
 pwr 86.06.0E.00.0A 156
-mem 86.06.0E.00.0A 4200
+mem 86.06.0E.00.0A 4250
 
 ### 4x Asus Dual OC GTX 1060 6GB ###
 pwr 86.06.27.00.9B 120
-mem 86.06.27.00.9B 4000
-
-### Tesla K80 ###
-mem 80.21.25.00.01 5000
-cor 80.21.25.00.01 2000
+mem 86.06.27.00.9B 4050
