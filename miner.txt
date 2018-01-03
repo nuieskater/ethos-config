@@ -16,12 +16,19 @@ loc 4ee36b bsmt1
 # Mining Settings #
 ###################
 stratumproxy enabled
-globalminer ethminer
 
 ### Ethminer ###
+# globalminer ethminer
 ethminer=proxywallet 1666878e0c70783dfa98cdaeccb64f1aae690d5a
 ethminer=proxypool1 us1.ethermine.org:4444
 ethminer=proxypool2 us2.ethermine.org:4444
+
+### XMR-Monero (with ccminer) ###
+globalminer ccminer
+ccminer=flags -a cryptonight
+ccminer=proxywallet 4Akr711dEsUeY9AgwRSWj74DnBxZz7UvRG4NaXLXF733Z4t2ryBfJk5WbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm3xAD32N
+ccminer=proxypool1 pool.supportxmr.com:443
+ccminer=poolpass1 bsmt1:jason@waldrip.net
 
 ######################
 # Overclock Settings #
