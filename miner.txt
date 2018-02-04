@@ -3,7 +3,7 @@
 ###################
 custompanel jw1986reese8
 maxgputemp 85
-autoreboot 5
+autoreboot 1000
 globalfan 80
 
 ############################
